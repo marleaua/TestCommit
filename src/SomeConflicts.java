@@ -17,6 +17,7 @@ public class SomeConflicts {
     public static void main(String[] args) {
         
         System.out.println("Instruction 1");
+        System.out.println("Je suis sur le Bureau");
         System.out.println("Je suis dans NetBeans Project");
         System.out.println("Ajout après un merge de l'autre clone");
         // TODO code application logic here
