@@ -18,6 +18,7 @@ public class SomeConflicts {
         
         System.out.println("Instruction 1");
         System.out.println("Je suis sur le Bureau");
+        System.out.println("Je suis dans NetBeans Project");
         // TODO code application logic here
     }
     
