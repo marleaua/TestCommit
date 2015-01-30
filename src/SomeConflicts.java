@@ -17,6 +17,7 @@ public class SomeConflicts {
     public static void main(String[] args) {
         
         System.out.println("Instruction 1");
+        System.out.println("Je suis sur le Bureau");
         // TODO code application logic here
     }
     
